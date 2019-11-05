@@ -1,0 +1,10 @@
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\bin\Debug\netcoreapp2.2\TrieDataStructure.deps.json
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\bin\Debug\netcoreapp2.2\TrieDataStructure.runtimeconfig.json
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\bin\Debug\netcoreapp2.2\TrieDataStructure.runtimeconfig.dev.json
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\bin\Debug\netcoreapp2.2\TrieDataStructure.dll
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\bin\Debug\netcoreapp2.2\TrieDataStructure.pdb
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\obj\Debug\netcoreapp2.2\TrieDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\obj\Debug\netcoreapp2.2\TrieDataStructure.AssemblyInfoInputs.cache
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\obj\Debug\netcoreapp2.2\TrieDataStructure.AssemblyInfo.cs
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\obj\Debug\netcoreapp2.2\TrieDataStructure.dll
+C:\Users\rapadh\source\repos\Algorithms\TrieDataStructure\TrieDataStructure\obj\Debug\netcoreapp2.2\TrieDataStructure.pdb
